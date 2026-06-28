@@ -58,7 +58,7 @@ We provide two examples for sampling, and please refer to `scripts/sample_outpai
 
 
 ### Acknowledgement
-Our project is based on [Open-Sora-Plan](https://github.com/Vchitect/Latte) and we are grateful for its open-source nature.
+Our project is based on [Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) and we are grateful for its open-source nature.
 
 
 
