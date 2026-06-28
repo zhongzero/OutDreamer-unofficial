@@ -19,10 +19,10 @@ pip install -e ".[dev]"
 ### Download
 
 * Pre-trained DiT model Weights  
-  * We use pre-trained DiT model of [Open-Sora-Plan](https://github.com/Vchitect/Latte). To get the pre-trained DiT model weights, download them from the following link and put them into `pretrained_models/models--LanguageBind--Open-Sora-Plan-v1.2.0/29x720p` 
+  * We use pre-trained DiT model of [Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan). To get the pre-trained DiT model weights, download them from the following link and put them into `pretrained_models/models--LanguageBind--Open-Sora-Plan-v1.2.0/29x720p` 
   * https://huggingface.co/LanguageBind/Open-Sora-Plan-v1.2.0/tree/main/29x720p
 * VAE Weights
-  * We use pre-trained VAE of [Open-Sora-Plan](https://github.com/Vchitect/Latte). To get the pre-trained VAE weights, download them from the following link and  put them into `pretrained_models/models--LanguageBind--Open-Sora-Plan-v1.2.0/vae` :
+  * We use pre-trained VAE of [Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan). To get the pre-trained VAE weights, download them from the following link and  put them into `pretrained_models/models--LanguageBind--Open-Sora-Plan-v1.2.0/vae` :
   * https://huggingface.co/LanguageBind/Open-Sora-Plan-v1.2.0/tree/main/vae
 * Unofficial OutDreamer Model Weights
   * This repository is an unofficial implementation of *"OutDreamer: Video Outpainting with a Diffusion Transformer"* for research and reproduction purposes. Due to company policy, we are unable to provide the official pre-trained OutDreamer model weights. The checkpoint obtained from this repository should be regarded as unofficial reproduced weights.
