@@ -64,11 +64,12 @@ Our project is based on [Open-Sora-Plan](https://github.com/Vchitect/Latte) and 
 ## 📎 Citation
 
 ```
-@article{zhong2025outdreamer,
+@article{zhong2026outdreamer,
   title={Outdreamer: Video outpainting with a diffusion transformer},
   author={Zhong, Linhao and Li, Fan and Huang, Yi and Liu, Jianzhuang and Pei, Renjing and Song, Fenglong},
-  journal={arXiv preprint arXiv:2506.22298},
-  year={2025}
+  journal={IEEE Transactions on Image Processing},
+  year={2026},
+  publisher={IEEE}
 }
 ```
 
