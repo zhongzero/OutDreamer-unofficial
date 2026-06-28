@@ -1,6 +1,6 @@
 # An unofficial implementation for ”OutDreamer: Video Outpainting with a Diffusion Transformer (accepted by TIP)“
 
- <a href='https://arxiv.org/abs/2506.22298'><img src='https://img.shields.io/badge/arXiv-2506.22298-b31b1b.svg'></a> 
+ <a href='https://arxiv.org/abs/2506.22298'><img src='https://img.shields.io/badge/arXiv-2506.22298-b31b1b.svg'></a> <a href='https://huggingface.co/zhongzero/outdreamer_model'><img src='https://img.shields.io/badge/Weights-outdreamer-yellow.svg'></a> 
 
 ![overview.jpg](assets/overview.jpg)
 
@@ -24,6 +24,9 @@ pip install -e ".[dev]"
 * VAE Weights
   * We use pre-trained VAE of [Open-Sora-Plan](https://github.com/Vchitect/Latte). To get the pre-trained VAE weights, download them from the following link and  put them into `pretrained_models/models--LanguageBind--Open-Sora-Plan-v1.2.0/vae` :
   * https://huggingface.co/LanguageBind/Open-Sora-Plan-v1.2.0/tree/main/vae
+* Unofficial OutDreamer Model Weights
+  * This repository is an unofficial implementation of *"OutDreamer: Video Outpainting with a Diffusion Transformer"* for research and reproduction purposes. Due to company policy, we are unable to provide the official pre-trained OutDreamer model weights. The checkpoint obtained from this repository should be regarded as unofficial reproduced weights.
+  * https://huggingface.co/zhongzero/outdreamer_model/tree/main
 
 ### train
 
@@ -48,8 +51,6 @@ bash scripts/sample_outpaint.sh
 ```
 
 We provide two examples for sampling, and please refer to `scripts/sample_outpaint.sh` for more inference details.
-
-Due to company policy, we are unable to provide the pre-trained OutDreamer model weights. Please train the model yourself using the provided training scripts.
 
 
 

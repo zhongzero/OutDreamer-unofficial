@@ -1,4 +1,5 @@
 model_path="checkpoint_outpaint/checkpoint-10000/model"
+# or model_path="the unofficial outdreamer model weights from https://huggingface.co/zhongzero/outdreamer_model/tree/main"
 cache_dir="pretrained_models/cache_dir"
 ae_path="pretrained_models/models--LanguageBind--Open-Sora-Plan-v1.2.0/vae"
 
