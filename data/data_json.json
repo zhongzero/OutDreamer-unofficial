@@ -1,0 +1,30 @@
+[
+    {
+        "path": "20663024_resize1080p.mp4",
+        "resolution": {
+            "height": 1080,
+            "width": 1920
+        },
+        "size": 16507611,
+        "cap": [
+            "The video provides a close-up view of a hydroponic setup, detailing the vibrant green plants growing densely in a dark-colored medium, likely soil, within a white plastic structure indicative of a controlled hydroponic system. As the camera subtly shifts to the right across the sequence, more of the white plastic structure and the systematic arrangement of the plants become visible. The consistent lighting throughout the video ensures even illumination over the setup, highlighting the health and vitality of the plants. At a certain point, a metal edge or frame supporting the structure enters the view, further emphasizing the artificial environment designed for optimal plant growth. The plants show no sign of movement or disturbance, maintaining their upright position and dense formation throughout the video, which captures the intricacies of hydroponic cultivation and the growth's uniformity and vibrancy.",
+            "The video showcases a close-up view of a meticulously arranged greenhouse or indoor plant nursery. The camera focuses on the rows of small plants growing in individual containers, which are neatly aligned in rows. The plants vary in size and type, with some displaying broad leaves and others with more slender foliage. The containers are evenly spaced, allowing for ample room for the plants to grow and for easy maintenance. The lighting in the greenhouse is bright and even, highlighting the vibrant green hues of the plants. The background is slightly blurred, ensuring the viewer's attention remains on the plants. The overall scene conveys a sense of tranquility and the careful cultivation of nature indoors."
+        ],
+        "fps": 23.976023976023978,
+        "duration": 18.226542
+    },
+    {
+        "path": "5981978_resize1080p.mp4",
+        "resolution": {
+            "height": 1080,
+            "width": 2048
+        },
+        "size": 5427291,
+        "cap": [
+            "The video depicts a person sitting on a couch, engrossed in their smartphone, showing no discernible change in their position or engagement throughout the sequence of frames. The individual, dressed in a white long-sleeve top and accessorized with a ring on their left hand, maintains a consistent posture focused on the device. The setting is a cozy living space, characterized by a warm and inviting ambiance with a brown couch, several green plants, and soft lighting that casts gentle shadows around the area. Items like clothes and a blanket are casually draped over the couch, contributing to the lived-in feel of the space. Throughout the video, there is a notable absence of movement or interaction with the surroundings, and the camera remains stationary, keeping the framing and angle constant. The only change occurs in the individual's facial expression, showing them with their mouth open as if they are speaking or reacting to something on the phone, though this shift is subtle and does not alter the overall scene. The environment and the individual's attire remain unchanged, emphasizing a moment of quiet engagement with technology amidst a backdrop of domestic tranquility.",
+            "In the video, a woman is engrossed in her smartphone, comfortably seated on a couch. She's dressed in a casual white top, and her surroundings suggest a relaxed, homely environment. The room is softly lit, with natural light filtering in, casting a warm glow on the scene. The woman's focused expression and the way she's holding her phone indicate she's deeply engaged with whatever's on the screen. The background is tastefully decorated with potted plants, adding a touch of greenery to the setting. The overall atmosphere is one of calm and tranquility, with the woman immersed in her digital world."
+        ],
+        "fps": 25.0,
+        "duration": 12.76
+    }
+]
